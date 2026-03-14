@@ -1,23 +1,99 @@
+<h1 align="center">Hi 👋, I'm Herambha Karthikeya Guptha Pallapothu</h1>
+<h3 align="center">🚀 Machine Learning Enthusiast | Python Developer | AI Learner</h3>
 
-
-# 💫 About Me:
-👋 Hi, I'm Herambha Karthikeya Guptha. <br>📚 I am studying a 3rd-year Diploma student in AI & ML.<br>💡 Passionate about AI, ML, and real-world problem solving.<br>🔧 Skills: Python, Machine Learning, Deep Learning<br>📫 Let's connect: pallapothugayathri23@gmail.com | https://github.com/Herambha1226
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/herambha__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pallapothugayathri23@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=herambha1226&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=herambha1226&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=herambha1226&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=herambha1226&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&vCenter=true&width=440&lines=Machine+Learning+Student;Python+Developer;Building+AI+Projects;Exploring+AI+and+Data+Science;" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=herambha1226&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🎓 Passionate about **Machine Learning and Artificial Intelligence**
+- 💻 Currently learning **Machine Learning Algorithms from scratch**
+- 🤖 Interested in **Computer Vision and AI Applications**
+- 📚 Learning **SQL, Machine Learning, and AI System Development**
+- 🚀 Building projects using **Python, OpenCV, Kivy, and Machine Learning**
+- 🔍 Exploring **Data Science and AI technologies**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,mysql,sqlite,git,github,vscode,linux" />
+</p>
+
+---
+
+### 🚀 Projects
+
+- 📊 **Logistic Regression Admission Predictor**
+- 💬 **Kivy Chat App**
+- 📝 **Notepad Similar Application**
+- 🔢 **Handwritten Digit Recognition using KNN**
+
+---
+
+### 📚 Learning Journey
+
+Currently learning and practicing:
+
+- Machine Learning Algorithms
+- Python for AI Development
+- SQL & Database Management
+- Computer Vision using OpenCV
+- MediaPipe for AI Applications
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Herambha1226&show_icons=true&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herambha1226&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- AI System Development
+- Data Science
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/herambha-karthikeya-guptha-pallpothu/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:pallapothugayathri23@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Herambha1226">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💬 Dev Quote
+
+> “Keep learning, keep building, and let curiosity drive innovation.”
+
+---
+
+### 📉 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herambha1226&theme=dracula" alt="GitHub Activity Graph" />
+</p>
