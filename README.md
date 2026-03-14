@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Machine Learning Enthusiast | Python Developer | AI Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&vCenter=true&width=440&lines=Machine+Learning+Student;Python+Developer;Building+AI+Projects;Exploring+AI+and+Data+Science;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Student;Python+Developer;Computer+Vision+Projects;Building+AI+Applications;" alt="Typing SVG" />
 </p>
+
 
 ---
 
