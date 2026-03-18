@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,mysql,sqlite,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,mysql,flask,sqlite,git,github,vscode,linux" />
 </p>
 
 ---
