@@ -31,7 +31,7 @@
 
 - 📊 **Logistic Regression Admission Predictor**
 - 💬 **Kivy Chat App**
-- 📝 **Notepad Similar Application**
+- 👤 **Face Recognition**
 - 🔢 **Handwritten Digit Recognition using KNN**
 
 ---
